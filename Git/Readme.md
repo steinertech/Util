@@ -8,8 +8,9 @@ git rev-parse --short HEAD # Show current commit
 
 # Email
 ```
-git config --global user.email
-git config user.email
+git config --global user.email # Show global email
+git config user.email # Show email of repo
+git show e1d6043 # Show email of commit
 ```
 
 ## Git Diff
