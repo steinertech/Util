@@ -1,3 +1,16 @@
+# GitHub
+Clone
+```
+git clone git@github.com:steinertech/Util.git
+cd Util
+git config user.name # Show global 
+git config user.name "SteinerTech" # Config for tihs repo
+git config user.email # Show global
+git config user.email "205841367+steinertech@users.noreply.github.com" # Config for this repo
+ssh-keygen -t ed25519 -C "205841367+steinertech@users.noreply.github.com" # C:\Users\My/.ssh/SteinerTech
+# Copy key from C:\Users\Admin\.ssh\SteinerTech.pub to https://github.com/settings/keys (SSH and GPG keys) # Gives access to all repos
+```
+
 # Git Command
 Advanced git commands
 
