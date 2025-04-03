@@ -1,6 +1,17 @@
 # Git Command
 Advanced git commands
 
+# Commit Hash
+```
+git rev-parse --short HEAD # Show current commit
+```
+
+# Email
+```
+git config --global user.email
+git config user.email
+```
+
 ## Git Diff
 Open git bash
 ```
