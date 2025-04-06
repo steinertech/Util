@@ -1,5 +1,7 @@
 # GitHub
 
+## Repo
+Clone repo and push
 ```
 git clone https://github.com/steinertech/Util.git
 git config user.name # Show local name
