@@ -9,5 +9,5 @@ git config user.email # Show local mail
 git config user.name "SteinerTech"
 git config user.email "205841367+steinertech@users.noreply.github.com" # See also https://github.com/settings/emails
 # Windows Credential Manager delete git:https://github.com
-git push # Shows login window. See also https://github.com/settings/personal-access-tokens
+git push # Shows login window. Click token tab. See also https://github.com/settings/personal-access-tokens
 ```
