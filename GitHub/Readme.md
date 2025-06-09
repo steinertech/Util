@@ -14,3 +14,7 @@ git push # Shows login window. Click token tab. See also https://github.com/sett
 
 ## Access Token
 https://github.com/settings/personal-access-tokens
+
+```
+git push # Enter Token in dialog
+```
