@@ -11,3 +11,10 @@ git config user.email "205841367+steinertech@users.noreply.github.com" # See als
 # Windows Credential Manager delete git:https://github.com
 git push # Shows login window. Click token tab. See also https://github.com/settings/personal-access-tokens
 ```
+
+## Access Token
+https://github.com/settings/personal-access-tokens
+
+```
+git push # Enter Token in dialog
+```
