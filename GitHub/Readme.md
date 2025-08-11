@@ -13,8 +13,10 @@ git push # Shows login window. Click token tab. See also https://github.com/sett
 ```
 
 ## Access Token
-https://github.com/settings/personal-access-tokens
-
+* https://github.com/settings/personal-access-tokens
 ```
 git push # Enter Token in dialog
 ```
+
+## GitHub Pages
+* https://github.com/steinertech/Analyze/settings/secrets/actions For GitHub Pages PAT. Enter PAGES_PAT here.
