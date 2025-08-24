@@ -22,4 +22,4 @@ git push # Enter Token in dialog
 * https://github.com/steinertech/Analyze/settings/secrets/actions For GitHub Pages PAT. Enter PAGES_PAT here.
 
 ## CodeSpaces
-* https://github.com/settings/billing/
+* https://github.com/settings/billing/usage
