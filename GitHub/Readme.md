@@ -23,3 +23,4 @@ git push # Enter Token in dialog
 
 ## CodeSpaces
 * https://github.com/settings/billing/usage
+* https://github.com/steinertech/Analyze/settings/codespaces
